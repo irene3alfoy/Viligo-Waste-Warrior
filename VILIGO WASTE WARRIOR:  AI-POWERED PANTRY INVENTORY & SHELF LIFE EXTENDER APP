@@ -1,0 +1,36 @@
+🥗 VILIGO WASTE WARRIOR: AI-POWERED PANTRY INVENTORY & SHELF LIFE EXTENDER APP
+
+PROJECT CONTEXT
+This application prototype was developed by Team Foodlings during the G-K Hackathon – Digital Campus 2.0 on Google Cloud (hosted by the KITS CSE Dept.).
+The application addresses the critical challenge of **Household Food Waste and Inventory Management**, providing a sustainable solution for consumers.
+
+💡 TECHNICAL SOLUTION & APPROACH
+The application acts as a smart inventory assistant, using AI to manage pantry items and predict spoilage:
+* Inventory Input: Simulates the use of  manual entry to quickly track items and initial expiry dates.
+* Shelf-Life Prediction:Uses Predictive Modeling (AI/Cloud service) to adjust printed expiry dates based on user inputs regarding current storage conditions     (e.g., refrigerator temperature, air humidity).
+* Actionable Alerts:Generates timely alerts when food items are approaching their predicted spoilage point.
+* Recipe Suggestions:Offers recipes based on items that need to be consumed soonest, preventing waste.
+
+✨ KEY FEATURES IMPLEMENTED IN THE PROTOTYPE
+* User Authentication: Secure Sign In and Register pathways.
+* Inventory Visualization: Displays real-time stock levels and shelf-life status.
+* Spoilage Alerts:Provides customizable notifications for items nearing expiry.
+* Data Summary: Visual representation of food waste reduction metrics and estimated savings.
+
+🚀 TECHNOLOGY STACK
+* Platform: Developed using Google Cloud services and infrastructure.
+* Front-End:React(JavaScript) and Component-Based Architecture.
+* Styling:Tailwind CSS for rapid UI development.
+* Logic: Integrated with AI/Cloud services for predictive analytics and data processing.
+
+📈 IMPACT & BUSINESS VALUE
+* Sustainability: Directly supports SDG 12 (Responsible Consumption and Production) by minimizing household food waste.
+* Consumer Savings:Helps users save money by prioritizing consumption and reducing spoilage.
+* Efficiency: Creates a streamlined, low-effort method for managing complex home inventories.
+
+📚 HACKATHON LEARNINGS
+This project was an intensive exercise in rapid prototyping, interdisciplinary teamwork, and delivering a market-ready technical pitch under a tight deadline.
+
+🔗 LINKS
+Deployed Prototype | [https://viligo-waste-warrior-09757-02640.lovable.app](https://viligo-waste-warrior-02640.lovable.app) |
+| Project Post | https://www.linkedin.com/posts/pratheeksha-shalbin-1b3981372_participation-certificate-for-gk-hacks-activity-7384147898026045440-Brij |
